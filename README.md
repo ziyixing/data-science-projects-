@@ -2,7 +2,7 @@
 
 This repository showcases projects completed as part of **The Data Analyst Course: Complete Data Analyst Bootcamp** by [365 Careers](https://www.udemy.com/user/365careers/). The course focuses on practical, job-ready skills needed to become a data analyst—through real-world, hands-on training in Python, data cleaning, preprocessing, and visualization.
 
-## What You'll Learn
+## Key Skills Covered
 
 These projects reflect key data analysis skills developed through the course:
 
